@@ -80,6 +80,7 @@ These games are best if at least one person knows the game already and can expla
 | --- | --- | --- | --- |
 |[18xx.Games](https://18xx.games) | [RR18xx](http://www.rr18xx.com/) | [Board 18](https://dev2.board18.org/) | 2-6 | [https://boardgamegeek.com/boardgame/423/1856-railroading-upper-canada-1856](https://boardgamegeek.com/boardgame/423/1856-railroading-upper-canada-1856)|
 | [7 Wonders Duel](https://sevenee.mattle.online) || 2 ||
+|[Abalone](https://www.playabalone.com/)|| 2 | [https://boardgamegeek.com/boardgame/526/abalone](https://boardgamegeek.com/boardgame/526/abalone)|
 |[Acquire](https://acquire.tlstyer.com/)|| 2-6 | [https://boardgamegeek.com/boardgame/5/acquire](https://boardgamegeek.com/boardgame/5/acquire)|
 |[Advanced Civilization](http://civ.rol-play.com/ahciv/login.php?app=horde)|| 2-8 | [http://civ.rol-play.com/ahciv/login.php?app=horde](http://civ.rol-play.com/ahciv/login.php?app=horde)|
 |[Play Agricola](https://playagricola.com/)|| 1-5 | [https://boardgamegeek.com/boardgame/31260/agricola](https://boardgamegeek.com/boardgame/31260/agricola)|
@@ -105,6 +106,7 @@ These games are best if at least one person knows the game already and can expla
 |[Swords and Ravens](https://swordsandravens.net/) (Game of Thrones Board Game)|| 3-6 | [https://boardgamegeek.com/boardgame/103343/game-thrones-board-game-second-edition](https://boardgamegeek.com/boardgame/103343/game-thrones-board-game-second-edition)|
 | [Online Go Server](https://online-go.com/) || 2 ||
 | [Hanabi](https://hanabi.cards/) | | 2-5 | [https://boardgamegeek.com/boardgame/98778/hanabi](https://boardgamegeek.com/boardgame/98778/hanabi)
+| [Hive](https://hivegame.com/) | | 2 | [https://boardgamegeek.com/boardgame/2655/hive](https://boardgamegeek.com/boardgame/2655/hive)
 |[Inhuman Conditions](http://interrogation.ftwinston.com/)|| 2 ||
 | [Innovation](https://innovation.isotropic.org/) || 2-4 | [https://boardgamegeek.com/boardgame/63888/innovation](https://boardgamegeek.com/boardgame/63888/innovation)|
 | [Keep talking and nobody explodes](https://keeptalkinggame.com/) (one person plays the game at a time, the others just need the manual) | | 2+ | |
